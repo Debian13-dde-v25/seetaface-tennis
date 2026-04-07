@@ -3,6 +3,7 @@
 //
 
 #include "pot.h"
+#include <cstdlib>
 #include <cstring>
 
 namespace ts {
